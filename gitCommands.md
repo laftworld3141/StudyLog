@@ -1,5 +1,8 @@
 
 
+#Git menual
+https://git-scm.com/book/ko/v1/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0
+http://marklodato.github.io/visual-git-guide/index-ko.html
 
 
 
@@ -64,4 +67,4 @@ git branch -va
 git checkout master
 git merge upstream/master
 
-
+vim .git/config
