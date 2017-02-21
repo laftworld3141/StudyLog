@@ -56,4 +56,12 @@ git rebase -i
 commit --amend
 git rebase -i
 
+#View all branches, including those from upstream
+git branch -va
+
+
+# Checkout your master branch and merge upstream
+git checkout master
+git merge upstream/master
+
 
